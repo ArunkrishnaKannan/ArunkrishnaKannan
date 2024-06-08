@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend<br>👯 I’m looking to collaborate on Backend<br>🌱 I’m currently learning React <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Frontend<br>👯 I’m looking to collaborate on Backend<br>🌱 I’m currently learning Java<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
