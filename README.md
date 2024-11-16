@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend<br>👯 I’m looking to collaborate on Backend<br>🌱 I’m currently learning Next
+🔭 I’m currently working on Frontend<br>👯 I’m looking to collaborate on Backend<br>🌱 I’m currently learning Next js
 
 
 ## 🌐 Socials:
