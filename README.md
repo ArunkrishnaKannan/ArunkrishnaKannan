@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend, AWS Cloud Operations**
 
-- 🌱 I’m currently learning **AWS, Devops**
+- 🌱 I’m currently learning **Devops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
