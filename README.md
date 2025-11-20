@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer and Cloud Engineer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend, AWS Cloud Operations<br><br>🌱 I’m currently learning Devops
+🔭 I’m currently working on Frontend, AWS Cloud <br><br>🌱 I’m currently learning Devops
 
 
 ## 🌐 Socials:
